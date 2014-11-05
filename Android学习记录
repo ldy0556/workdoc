@@ -1,0 +1,30 @@
+程序正常启动：onCreate()->onStart()->onResume();
+正常退出：onPause()->onStop()->onDestory()
+
+一个Activity启动另一个Activity: onPause()->onStop(), 再返回：onRestart()->onStart()->onResume()
+
+程序按back 退出： onPause()->onStop()->onDestory(),再进入：onCreate()->onStart()->onResume();
+程序按home 退出： onPause()->onStop(),再进入：onRestart()->onStart()->onResume();
+
+云总机 张砚2014-10-14 10:10:33
+http://www.voippub.com/redirect.php?fid=9&tid=1560&goto=nextoldset
+云总机 张砚2014-10-14 10:10:44
+如果应答有延时，那么UAS应该在这个Timestamp上增加延时的值。这个数值必须包含了接收请求和发送应答的时间，用秒来计数。
+
+华讯OA系统： 
+OA外网：http://183.62.173.117:8888 
+内网：http://172.18.2.10:8888 
+用户名：中文姓名 密码：z0000000
+
+各位oa已经开通，请大家登录下。
+
+
+android 源码查看可切换的分支
+cd .repo/manifests
+git branch -a | cut -d / -f 3
+
+=========================
+Git diff ^M的消除方法：
+ 
+git config --global core.whitespace cr-at-eol
+
