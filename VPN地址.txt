@@ -1,0 +1,1049 @@
+http://cn.ziddu.com/download/477868/setup_puff_003x.exe.html
+　　商业版(免安装版) Puff v0.10 beta
+　　下载地址：http://www.ziddu.com/download/13000727/p010beta.rar.html
+　　Mac OS版 iPuff v1.30
+　　下载地址：http://www.ziddu.com/download/13000728/ipuff.zip.html
+　　参考：http://caiting666.blogspot.com/2010/01/puff.html
+　　Tunnelier version 4.39
+　　安装版下载地址：http://yunfile.com/file/ivyrough/731849ab/
+　　便携版TunnelierPortable下载地址：http://www.ziddu.com/download/13097274/TunnelierPortable_4.39_Rev_2.0.paf.exe.html
+　　参考：http://caiting666.blogspot.com/2010/10/ssh-tunnelier.html
+　　免费SSH账号获取器v1.0
+　　下载地址：http://www.ziddu.com/download/13009794/SSHv1.0.exe.html
+　　参考：http://caiting666.blogspot.com/2010/12/ssh.html
+　　张生翻墙(Mr.Zhang)
+　　Mr.Zhang 0.09 for Windows
+　　下载地址：http://www.ziddu.com/download/13012311/mrzhang0.09.exe.html
+　　商业版
+　　Mr.ZhangBiz 0.06 for Windows
+　　下载地址：http://cn.ziddu.com/download/525471/mrzhangbiz0.06.exe.html
+　　Mr.ZhangBiz 0.06 for Windows 便携版
+　　下载地址：http://cn.ziddu.com/download/528831/MrZhang.zip.html
+　　参考：http://caiting666.blogspot.com/2010/07/mrzhang.html
+　　http://caiting666.blogspot.com/2010/08/mrzhangbiz.html
+　　VPN客户端：
+　　173VPN登陆器 V3.2.30 (PPTP、L2TP VPN；用户名：173vpncom；密码：173vpncom)
+　　下载地址：http://cn.ziddu.com/download/534319/173vpn.rar.html
+　　参考：http://caiting666.blogspot.com/2010/09/pptpl2tp-vpn-173vpn.html
+　　
+　　517VPN V3.2.22 (PPTP、L2TP VPN；用户名：517vpn；密码：517vpn)
+　　绿色版：http://cn.ziddu.com/download/534318/517vpn.rar.html
+　　安装版：http://www.ziddu.com/download/13012348/517vpn_setup.rar.html
+　　参考：http://caiting666.blogspot.com/2010/09/pptpl2tp-vpn-517vpn.html
+　　
+　　80代理(PPTP、L2TP VPN)：http://www.proxy80.cn/vpn/
+　　80代理-网络连接专家V2.0
+　　下载地址：http://www.ziddu.com/download/13114487/80VPN.exe.html
+　　参考：http://caiting666.blogspot.com/2010/12/sshvpn-80.html
+　　
+　　91VPN商业测试版1.2.8 (PPTP、L2TP VPN)
+　　下载地址：http://cn.ziddu.com/download/562813/91vpn.zip.html
+　　参考：http://caiting666.blogspot.com/2010/08/pptp-vpn-91vpn.html
+　　
+　　Air VPN(OpenVPN)https://airvpn.org/?option=com_user&view=register
+　　Air VPN v0.7
+　　下载地址：http://www.ziddu.com/download/13207056/AirVPN.exe.html
+　　参考：http://caiting666.blogspot.com/2011/01/openvpn-air-vpn.html
+　　
+　　Alfa-VPN(PPTP VPN；用户名：test；密码：test)
+　　下载地址：http://cn.ziddu.com/download/558569/USA-test.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptp-vpnalfa-vpn.html
+　　
+　　Anonymity Network(PPTP、OpenVPN)：https://anonymitynetwork.com/members/signup.php
+　　Portable PPTP VPN tool下载地址：http://cn.ziddu.com/download/542048/AnonymityPPTPVPN.exe.html
+　　AN VPN Tool Version: 1.0下载地址：http://cn.ziddu.com/download/541226/ANVPNTOOL.exe.html
+　　OpenVPN配置文件下载地址：http://cn.ziddu.com/download/542049/Anonymity_config.zip.html
+　　参考：http://caiting666.blogspot.com/2010/10/vpn-anonymity-network.html
+　　
+　　BaharVPN(PPTP VPN；用户名：httpS://baharvpn.com；密码：2011)
+　　下载地址：http://cn.ziddu.com/download/553724/free32.exe.html
+　　参考：http://caiting666.blogspot.com/2010/11/pptp-vpnbaharvpn-free-vpn.html
+　　
+　　CanWeb VPN(PPTP VPN)：http://vpn.canweb.com.cn/register.asp
+　　下载地址：http://cn.ziddu.com/download/557132/CanWebVpn.exe.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptp-vpn-canweb-vpn.html
+　　
+　　Cienen VPN(PPTP、L2TP、OpenVPN)：http://www.cienen.com/trials.php
+　　Cienen Shared IP Network Dialers
+　　下载地址：http://cn.ziddu.com/download/538819/CienenSharedIP.zip.html
+　　参考：http://caiting666.blogspot.com/2010/10/vpn-cienen-vpn.html
+　　
+　　Clip2Ni(PPTP VPN)
+　　1.用户名：clip2ni；密码：2010
+　　2.用户名：clip2ni1；密码：2011
+　　3.用户名：clip2ni2；密码：2012
+　　4.用户名：clip2ni3；密码：2013
+　　5.用户名：clip2ni4；密码：2014
+　　下载地址：http://www.ziddu.com/download/13054615/vpn.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptp-vpn-clip2ni.html
+　　
+　　Comodo TrustConnect v1.7.1
+　　下载地址：http://cn.ziddu.com/download/522692/ComodoTrustConnectClient.exe.html
+　　参考：http://caiting666.blogspot.com/2010/08/openvpn-comodo-trustconnect.html
+　　
+　　CyberGhost VPN 4.5.20.1055
+　　下载地址：http://cn.ziddu.com/download/552242/CGWebInstall.exe.html
+　　参考：http://caiting666.blogspot.com/2010/11/openvpn-cyberghost-vpn.html
+　　
+　　Dino VPN(PPTP、L2TP VPN；用户名：[url]www.dvpn.tk[/url]；密码：dinovpn；L2TP密钥：12345678)
+　　下载地址：http://www.ziddu.com/download/13012464/DinoVPN.zip.html
+　　参考：http://caiting666.blogspot.com/2010/11/pptpl2tp-vpn-dino-vpn.html
+　　
+　　ExpatShield 1.56
+　　下载地址：http://cn.ziddu.com/download/563022/HSS-1.56-install-anchorfree-232-expatshield.exe.html
+　　参考：http://caiting666.blogspot.com/2010/10/openvpn-expatshield.html
+　　
+　　FCNS.VPN 2010.12.10.5
+　　下载地址：http://cn.ziddu.com/download/563026/FCNS.exe.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptp-vpn-fcnsvpn.html
+　　
+　　FoxVPN(PPTP、L2TP VPN；L2TP密钥：123456)：http://www.foxvpn.com/index.php?type=reg
+　　下载地址：http://cn.ziddu.com/download/563028/Foxvpn.exe.html
+　　参考：http://caiting666.blogspot.com/2010/11/pptpl2tp-vpn-foxvpn.html
+　　
+　　FQVPN(PPTP、OpenVPN)：http://www.fqvpn.net/user/register
+　　OpenVPN配置文件下载地址：http://cn.ziddu.com/download/563034/fqvpnconfig.zip.html
+　　参考：http://caiting666.blogspot.com/2010/10/vpn-fqvpn.html
+　　
+　　Free OpenVPN(OpenVPN)
+　　OpenVPN配置文件下载地址：http://cn.ziddu.com/download/563214/freeopenvpn.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/openvpn-free-openvpn.html
+　　
+　　Free VPN v3.22
+　　下载地址：http://cn.ziddu.com/download/509467/ifreevpn.exe.html
+　　参考：http://caiting666.blogspot.com/2010/01/vpn-free-vpn.html
+　　
+　　Golabi VPN：(PPTP、L2TP VPN；用户名：test；密码：test)http://golabivpn.bloghaa.com/test/
+　　下载地址：http://www.ziddu.com/download/13027770/GolabiVPN.zip.html
+　　
+　　GoVPNGo(PPTP、OpenVPN)：http://www.govpngo.com/my-trial
+　　OpenVPN配置文件下载地址：http://www.ziddu.com/download/13138209/govpngo.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/vpn-govpngo.html
+　　
+　　GreenVPN(PPTP VPN)：http://www.greenvpn.net/component/user/?task=register
+　　下载地址：http://cn.ziddu.com/download/563040/GreenVPN.zip.html
+　　参考：http://caiting666.blogspot.com/2010/07/pptp-vpn-greenvpn.html
+　　
+　　Hotspot Shield 1.56
+　　下载地址：http://cn.ziddu.com/download/563024/HSS-1.56-install-anchorfree-76-conduit.exe.html
+　　http://cn.ziddu.com/download/563023/HSS-1.56-install-anchorfree-238-conduit2.exe.html
+　　http://cn.ziddu.com/download/563021/HSS-1.56-install-anchorfree-243-ask3.exe.html
+　　参考：http://caiting666.blogspot.com/2010/01/vpn-hotspot-shield_16.html
+　　
+　　Hraicp VPN(PPTP VPN；用户名：hraicp；密码：hraicp)
+　　下载地址：http://cn.ziddu.com/download/556245/connection.zip.html
+　　参考：http://caiting666.blogspot.com/2010/11/pptp-vpn-hraicp-vpn.html
+　　
+　　HZVPN(PPTP VPN；用户名：test；密码：test)
+　　下载地址：http://cn.ziddu.com/download/561866/HZVPN.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptp-vpn-hzvpn.html
+　　
+　　Internetnolimit VPN(PPTP、OpenVPN)：http://www.internetnolimit.com/register-now
+　　OpenVPN配置文件下载地址：http://cn.ziddu.com/download/563042/Internetnolimit.zip.html
+　　参考：http://caiting666.blogspot.com/2010/01/vpn-internetnolimit.html
+　　
+　　Invisible Browsing VPN(PPTP、OpenVPN)：http://www.ibvpn.com/billing/cart.php?a=add&pid=10
+　　ibVPN Client下载地址：http://cn.ziddu.com/download/563056/ibVPN.exe.html
+　　OpenVPN配置文件下载地址：http://cn.ziddu.com/download/563057/win_config.zip.html
+　　参考：http://caiting666.blogspot.com/2010/01/vpn-invisible-browsing-vpn.html
+　　
+　　IranianVPN(PPTP、L2TP VPN；用户名：free；密码：free)
+　　下载地址：http://cn.ziddu.com/download/560083/IranianVPN.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptpl2tp-vpn-iranianvpn.html
+　　
+　　IrVPN(PPTP、L2TP VPN；用户名：irvpn.tk；密码：irvpn.tk)。
+　　下载地址：http://cn.ziddu.com/download/560421/irvpn.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptpl2tp-vpn-irvpn.html
+　　
+　　Ivacy Monitor 2.1.2.210
+　　下载地址：http://cn.ziddu.com/download/563058/IvacyMonitor-2.1.2.210-win.exe.html
+　　Ivacy Firefox extension(插件)下载地址：
+　　http://cn.ziddu.com/download/512185/IvacyFirefoxExtension.xpi.zip.html
+　　Ivacy Firefox Suite(套件)下载地址：
+　　http://cn.ziddu.com/download/512184/IvacyFirefoxSuite.exe.html
+　　参考：http://caiting666.blogspot.com/2010/07/vpn-ivacy-monitor.html
+　　
+　　LavaVPN网络加速器 v0.6 Beta 101211版(PPTP、L2TP VPN)
+　　下载地址：http://cn.ziddu.com/download/563059/lavavpn101211.exe.html
+　　参考：http://caiting666.blogspot.com/2010/08/pptplt2p-vpn-lavavpn.html
+　　
+　　LionVPN(PPTP、L2TP VPN)：http://www.lionvpn.com/contact.html
+　　下载地址：http://www.ziddu.com/download/13165705/LionVPN.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptpl2tp-vpn-lionvpn.html
+　　
+　　Loki VPN Client Version 1.7.3.119
+　　下载地址：http://cn.ziddu.com/download/550928/LokiVPNClientSetup.exe.html
+　　参考：http://caiting666.blogspot.com/2010/11/vpn-loki-vpn-client.html
+　　
+　　LORD-VPN(PPTP、L2TP VPN；用户名：test；密码：test)
+　　下载地址：http://cn.ziddu.com/download/558469/LORD-VPN.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptpl2tp-vpnlord-vpn.html
+　　
+　　MSNVPN(PPTP、L2TP VPN)：http://user.msnvpn.com:800/msnvpn/reg.aspx
+　　下载地址：http://cn.ziddu.com/download/542254/vpnclient.rar.html
+　　参考：http://caiting666.blogspot.com/2010/10/pptpl2tp-vpn-msnvpn.html
+　　
+　　Net Ignition VPN(PPTP VPN)：https://www.netignition.com/trial
+　　下载地址：http://www.ziddu.com/download/12105252/NetIgnitionVPN.zip.html
+　　参考：http://caiting666.blogspot.com/2010/10/pptp-vpn-net-ignition-vpn.html
+　　
+　　Networkproduct(PPTP VPN；用户名：networkproduct；密码：test)
+　　下载地址：http://cn.ziddu.com/download/561247/networkproduct.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptp-vpn-networkproduct.html
+　　
+　　OpenVPN 2.1.4
+　　下载地址：http://cn.ziddu.com/download/550373/openvpn-2.1.4-install.exe.html
+　　OpenVPN 2.2-beta5
+　　下载地址：http://cn.ziddu.com/download/560544/openvpn-2.2-beta5-install.exe.html
+　　OpenVPN便携版OpenVPNPortable 1.6.6
+　　下载地址：http://cn.ziddu.com/download/517660/OpenVPNPortable_1.6.6.paf.exe.html
+　　OpenVPN Client 1.5.6
+　　下载地址：http://cn.ziddu.com/download/561339/openvpn-client.msi.html
+　　
+　　PacketiX VPN Client Ver 3.01 Build 7177 简体中文版
+　　下载地址：http://yunfile.com/file/ivyrough/211c2740/
+　　配置文件下载地址：http://www.ziddu.com/download/12940382/PacketiX.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/vpn-packetix-vpn-client.html
+　　
+　　Pars Service VPN(PPTP VPN；用户名：parsservice；密码：test)
+　　下载地址：http://cn.ziddu.com/download/557751/parsservice.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptp-vpn-pars-service-vpn.html
+　　
+　　PersiaVPN(PPTP、L2TP VPN；用户名：persiavpn；密码：persiavpn)：http://www.persiavpn.ir/index.php?view_content=1
+　　下载地址：http://www.ziddu.com/download/13070317/PersiaVPN.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptpl2tp-vpn-persiavpn.html
+　　
+　　PortableVPN version 1.1.1
+　　下载地址：http://cn.ziddu.com/download/553725/PortableVPN.exe.html
+　　参考：http://caiting666.blogspot.com/2010/03/pptp-vpn-portablevpn.html
+　　
+　　PPVPN网络加速2.0
+　　下载地址：http://www.ziddu.com/download/13012608/ppvpn.exe.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptp-vpn-ppvpn.html
+　　
+　　ProcessVPN v1.0.8 正式版
+　　下载地址：http://www.ziddu.com/download/13113250/ProcessVPN11.rar.html
+　　ProcessVPN v1.1.1 RC
+　　下载地址：http://www.ziddu.com/download/13113250/ProcessVPN11.rar.html
+　　参考：http://caiting666.blogspot.com/2010/12/for-vpn-processvpn.html
+　　
+　　proXPN Basic v2.4.2(OpenVPN)：https://proxpn.com/signup_paid.php
+　　Windows版下载地址：http://www.ziddu.com/download/13194798/installproXPN.exe.html
+　　Mac版下载地址：http://www.ziddu.com/download/13085450/mac.zip.html
+　　参考：http://caiting666.blogspot.com/2010/03/vpn-proxpn.html
+　　
+　　RayanVPN(PPTP、L2TP VPN)：http://www.rayanvpn.com/test-account.html
+　　下载地址：http://cn.ziddu.com/download/556552/rayanvpn.zip.html
+　　参考：http://caiting666.blogspot.com/2010/11/pptpl2tp-vpn-rayanvpn.html
+　　
+　　Secure Cyber(PPTP、L2TP VPN；用户名：test；密码：test)：http://www.secure-cyber.com/
+　　下载地址：http://cn.ziddu.com/download/560419/all.secure-cyber.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptpl2tp-vpn-secure-cyber.html
+　　
+　　SecurityKISS Tunnel Limited Version 0.1.3 (OpenVPN)
+　　下载地址：http://www.securitykiss.com/sk/index.php?m=RunDownload
+　　参考：http://caiting666.blogspot.com/2010/07/vpn-securitykiss-tunnel.html
+　　
+　　SmartHide Free Trial Edition v.2.3.297 (OpenVPN)
+　　下载地址：http://cn.ziddu.com/download/544703/SmartHide_2_setup_297_trial.exe.html
+　　参考：http://caiting666.blogspot.com/2010/10/openvpn-smarthide.html
+　　
+　　SuperVPN.ir(PPTP、L2TP VPN；用户名：supervpn；密码：supervpn)：http://www.supervpn.ir/test-account.html
+　　下载地址：http://cn.ziddu.com/download/559131/supervpn.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptpl2tp-vpn-supervpnir.html
+　　
+　　TrustVPN(PPTP、L2TP VPN；用户名：trustvpn；密码：test)：https://trustvpn.info/
+　　下载地址：http://www.ziddu.com/download/13025227/TrustVpn.zip.html
+　　
+　　UK-VPN(PPTP、L2TP VPN；用户名：free；密码：free)：http://www.uk-vpn.co.cc/vpn.htm
+　　下载地址：http://cn.ziddu.com/download/558507/Updated-Connection.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptpl2tp-vpnuk-vpn.html
+　　
+　　UltraVPN(OpenVPN)：https://www.ultravpn.fr/account.htm
+　　UltraVPN 1.0下载地址：http://cn.ziddu.com/download/563234/ultravpn-install.exe.html
+　　OpenVPN配置文件下载地址：http://cn.ziddu.com/download/563235/ultravpn.zip.html
+　　
+　　Unblock VPN(PPTP、OpenVPN)：http://unblockvpn.com/purchase.php
+　　Unblock VPN下载地址：http://cn.ziddu.com/download/563232/unblockvpn_installer.zip.html
+　　OpenVPN配置文件下载地址：http://cn.ziddu.com/download/563233/unblockvpn-openvpn-2010-10-12.zip.html
+　　参考：http://caiting666.blogspot.com/2010/09/vpn-unblock-vpn.html
+　　
+　　USA IP(PPTP、L2TP、OpenVPN；用户名：demo；密码：demo)：http://www.usaip.eu/en/free_vpn.php
+　　下载地址：http://cn.ziddu.com/download/563229/USAIP.zip.html
+　　OpenVPN配置文件下载地址：http://cn.ziddu.com/download/563230/usaip.zip.html
+　　参考：http://caiting666.blogspot.com/2010/02/vpn-usaip-vpn.html
+　　
+　　UT-VPN Client Ver.1.01 Build 7101(日文版)
+　　下载地址：http://yunfile.com/file/ivyrough/72068b62/
+　　参考：http://caiting666.blogspot.com/2010/12/packetix-vpnvpnut-vpn.html
+　　
+　　VaLaS VPN(用户名：valasvpn；密码：38602845)
+　　下载地址：http://cn.ziddu.com/download/557764/VaLaSVPN.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptpl2tp-vpn-valas-vpn.html
+　　
+　　VeryFastVPN：https://www.veryfastvpn.com/user_signup.php
+　　VeryFastVPN 网络代理加速器 Ver 1.6.3
+　　下载地址：http://yunfile.com/file/ivyrough/32459d39/
+　　参考：http://caiting666.blogspot.com/2010/09/pptpl2tp-vpn-veryfastvpn.html
+　　
+　　ViPieN(PPTP、L2TP VPN；用户名：free；密码：free)：http://www.vipien.net/
+　　下载地址：http://www.ziddu.com/download/13125669/ViPieN.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptpl2tp-vpn-vipien.html
+　　
+　　VPN4All(OpenVPN)：http://www.vpn4all.com/ch/trial/
+　　VPN4All 1.2.1.15
+　　下载地址：http://yunfile.com/file/ivyrough/87f5b011/
+　　参考：http://caiting666.blogspot.com/2010/12/openvpn-vpn4all.html
+　　
+　　VPN4Irani(PPTP VPN；用户名：vpn4irani；密码：vpn4irani)：http://vpn4irani.in/
+　　下载地址：http://cn.ziddu.com/download/558329/VPN4Irani.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptp-vpn-vpn4irani.html
+　　
+　　VPN990(PPTP、L2TP VPN)：http://www.vpn990.com/reg.php
+　　香港VPN连接器下载地址：http://cn.ziddu.com/download/550405/vpn990.exe.html
+　　参考：http://caiting666.blogspot.com/2010/11/pptpl2tp-vpn-vpn990.html
+　　
+　　VPN Authority(PPTP、OpenVPN)：http://www.vpnauthority.com/member/reg.php
+　　VPN Authority PPTP VPN连接工具下载地址：http://cn.ziddu.com/download/555115/vpnauth.zip.html
+　　OpenVPN配置文件下载地址：http://cn.ziddu.com/download/555114/VPNAuthority.zip.html
+　　参考：http://caiting666.blogspot.com/2010/11/pptpopenvpn-vpn-authority.html
+　　
+　　VPN-FAST：http://vpn.vpn-fast.com/contacts/new
+　　最新版：PacketiX VPN Client Ver 3.01 Build 7177 简体中文版
+　　下载地址：http://yunfile.com/file/ivyrough/211c2740/
+　　配置文件下载地址：http://www.ziddu.com/download/13039882/vpn-fast.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/vpnvpn-fast.html
+　　
+　　VPNIHA(PPTP VPN；用户名：test；密码：test)：http://www.vpniha.com/Test.html
+　　下载地址：http://cn.ziddu.com/download/558419/Vpniha.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptp-vpn-vpniha.html
+　　
+　　VPNING(PPTP、OpenVPN)：http://www.vpning.com/member/reg.php
+　　VPNING PPTP VPN连接工具下载地址：http://cn.ziddu.com/download/553783/vpning.exe.html
+　　OpenVPN配置文件下载地址：http://cn.ziddu.com/download/553782/vpning-openvpn.zip.html
+　　参考：http://caiting666.blogspot.com/2010/11/pptpopenvpn-vpning.html
+　　
+　　VPNinja(PPTP、OpenVPN)：http://vpninja.com/contact
+　　OpenVPN配置文件下载地址：http://www.ziddu.com/download/13126615/vpninja.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptpopenvpn-vpninja.html
+　　
+　　VPN Steel
+　　
+　　VPN Tool(L2TP VPN)：http://www.vpntool.com/order.php?protype=1
+　　(IPSEC VPN)：http://www.vpntool.com/order.php?protype=4
+　　下载地址：http://cn.ziddu.com/download/517655/vpntool.exe.html
+　　参考：http://caiting666.blogspot.com/2010/08/l2tpipsec-vpn-vpn-tool.html
+　　
+　　WangLuoXVPN(PPTP VPN)
+　　下载地址：http://www.ziddu.com/download/13119308/wangluoxvpn.rar.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptp-vpn-wangluoxvpn.html
+　　
+　　WooVPN(PPTP、OpenVPN)：http://www.woovpn.com/member/index_do.php?fmdo=user&dopost=regnew
+　　OpenVPN配置文件下载地址：http://cn.ziddu.com/download/544470/woovpnconfig.zip.html
+　　参考：http://caiting666.blogspot.com/2010/10/vpn-woovpn.html
+　　
+　　X-Song(PPTP VPN；用户名：x-song；密码：x-song15)
+　　下载地址：http://cn.ziddu.com/download/558143/X-Song.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/pptp-vpnx-song.html
+　　
+　　YourPrivateVPN(PPTP VPN)：http://www.yourprivatevpn.com/?q=en/contact_en
+　　YourPrivateVPN-EasyConnect v1.0
+　　下载地址：http://www.ziddu.com/download/13012812/EasyConnect.zip.html
+　　参考：http://caiting666.blogspot.com/2010/10/pptp-vpn-yourprivatevpn.html
+　　
+　　遨游VPN(PPTP VPN)：http://www.yxvpn.com/FreeTest.cfm
+　　遨游VPN绿色连接器1.0.0.4
+　　下载地址：http://cn.ziddu.com/download/534320/AOYOUVPNCN.EXE.html
+　　参考：http://caiting666.blogspot.com/2010/09/pptp-vpn-vpn_29.html
+　　
+　　创世免费VPN代理2.2(PPTP VPN)
+　　下载地址：http://cn.ziddu.com/download/556615/CsVpn.exe.html
+　　参考：http://caiting666.blogspot.com/2010/01/vpn-vpn.html
+　　
+　　非凡网络加速器(PPTP、L2TP VPN)：http://www.vpn123.com/freetrial.php
+　　非凡网络加速器Vpn123 2.2.0.2
+　　安装版：http://cn.ziddu.com/download/563139/Vpn123Installer_2.2.0.2.exe.html
+　　绿色版：http://cn.ziddu.com/download/563140/Vpn123_2.2.0.2.exe.html
+　　参考：http://caiting666.blogspot.com/2010/09/pptpl2tp-vpn.html
+　　
+　　飞迅2010极速版(PPTP、L2TP VPN)：http://fxvpn.com/user-register
+　　下载地址：http://www.ziddu.com/download/13012839/FeiXun.exe.html
+　　参考：http://caiting666.blogspot.com/2010/08/pptpl2tp-vpn-vpn.html
+　　
+　　飞易免费VPN共享器v2.15版(PPTP VPN)
+　　下载地址：http://cn.ziddu.com/download/510015/vpn.rar.html
+　　参考：http://caiting666.blogspot.com/2010/01/vpn-vpn_24.html
+　　
+　　酷诺VPN(KoonooVPN)网络加速器测试版 v0.1.2(PPTP、L2TP、SSL VPN)：http://koonoovpn.com/
+　　下载地址：http://www.ziddu.com/download/13026317/KoonooVPN.zip.html
+　　
+　　蓝帆加速器 2.1.00(PPTP、L2TP VPN)：http://www.321vpn.com/register.php
+　　下载地址：http://www.ziddu.com/download/13027056/321vpn.exe.html
+　　
+　　零距离加速器Zeron VPN(PPTP VPN)：http://www.vpnzp.cn/xxvpn/adduser.asp
+　　下载地址：http://cn.ziddu.com/download/556614/ZeroN.exe.html
+　　参考：http://caiting666.blogspot.com/2010/11/pptp-vpn-zeron-vpn.html
+　　
+　　免费VPN公布器v6.06(PPTP、L2TP VPN)：http://reg.lovevpn.com/freevpn.php
+　　下载地址：http://cn.ziddu.com/download/563133/LoveVPN_Setup.exe.html
+　　免费VPN公布器 v4.22(免安装版)
+　　下载地址：http://www.ziddu.com/download/13012910/VpnShare.exe.html
+　　参考：http://caiting666.blogspot.com/2010/03/vpn-vpn.html
+　　
+　　三轮车VPN(PPTP、L2TP VPN)：http://vpn.3lunche.com:8080/Reg.aspx
+　　三轮车VPN连接器 beta V4.0
+　　下载地址：http://cn.ziddu.com/download/521257/3luncheVPN20100525.rar.html
+　　参考：http://caiting666.blogspot.com/2010/08/pptpl2tp-vpn-vpn_15.html
+　　
+　　凸墙VPN(PPTP、L2TP、OpenVPN；L2TP密钥：vpn38)：https://www.vpn38.net/forum/
+　　凸墙VPN连接器下载地址：http://cn.ziddu.com/download/563127/VpnClient.rar.html
+　　OpenVPN配置文件下载地址：http://cn.ziddu.com/download/563125/config.exe.html
+　　手机OpenVPN配置文件下载地址：http://cn.ziddu.com/download/563126/config.rar.html
+　　参考：http://caiting666.blogspot.com/2010/07/vpn-vpn.html
+　　
+　　无忧府VPN(PPTP、L2TP、OpenVPN)：http://www.5uf.net/register
+　　OpenVPN配置文件下载地址：http://cn.ziddu.com/download/560543/5uf_vpn_openvpn.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/vpn-vpn.html
+　　
+　　
+　　补丁：
+　　Windows L2TP补丁：http://cn.ziddu.com/download/510718/ipsec.reg.zip.html
+　　Windows L2TP空密钥补丁：http://cn.ziddu.com/download/563178/l2tp.zip.html
+　　Mac OS L2TP空密钥补丁：http://cn.ziddu.com/download/563177/options.zip.html
+　　
+　　
+　　代理客户端：
+　　Advanced Tor v0.2.0.1
+　　下载地址：http://cn.ziddu.com/download/563347/AdvTor0.2.0.1.zip.html
+　　
+　　alkasir 1.2.0 build 457
+　　完整安装版(含Firefox浏览器)：http://cn.ziddu.com/download/533060/alkasir1_2_0_mozilla.exe.html
+　　不含Firefox浏览器安装版：http://cn.ziddu.com/download/533059/alkasir1_2_0457.msi.html
+　　完整便携版(含Firefox浏览器)：http://cn.ziddu.com/download/533057/alkasir1_2_0_usb_mozilla.exe.html
+　　不含Firefox浏览器便携版：http://cn.ziddu.com/download/533058/alkasir1_2_0_usb.exe.html
+　　参考：http://caiting666.blogspot.com/2010/09/socks-alkasir.html
+　　
+　　ASProxyWing Client Version 0.6.0 Alpha
+　　下载地址：http://www.ziddu.com/download/13124939/ASProxyWing-Client-Latest.zip.html
+　　参考：http://caiting666.blogspot.com/2010/11/asproxy-wing.html
+　　
+　　Astrill ver. 2.1.0 build 1600
+　　下载地址：http://cn.ziddu.com/download/562997/astrill-setup-win.exe.html
+　　参考：http://caiting666.blogspot.com/2010/01/astrill.html
+　　
+　　F.代理IP批量获取器v1.3
+　　下载地址：http://www.ziddu.com/download/13127240/F-IP.exe.html
+　　参考：http://caiting666.blogspot.com/2010/12/fip.html
+　　
+　　Hide My IP 5.2
+　　下载地址：http://cn.ziddu.com/download/524063/hidemyip.exe.html
+　　参考：http://caiting666.blogspot.com/2010/08/hide-my-ip.html
+　　
+　　hopster Preview Release 17
+　　下载地址：http://www.ziddu.com/download/13012954/HopsterSetup.exe.html
+　　参考：http://caiting666.blogspot.com/2010/12/hopster.html
+　　
+　　http-Tunnel Client v4.4.4000
+　　下载地址：http://cn.ziddu.com/download/524796/ht@Gue^33D-9#2nv@tpTunnelInstallerv444000.exe.html[/email]
+　　参考：http://caiting666.blogspot.com/2010/08/ht@Gue^33D-9#[email]2nv@tp-tunnel-client.html
+　　
+　　hyk-proxy V0.9.1
+　　安装版下载地址：http://cn.ziddu.com/download/562817/hyk-proxy-install_0.9.1.exe.html
+　　免安装版下载地址：http://cn.ziddu.com/download/562816/hyk-proxy-0.9.1.zip.html
+　　参考：http://caiting666.blogspot.com/2010/09/ht@Gue^33D-9#2nv@tphyk-proxy.html
+　　
+　　I2P 0.8.1
+　　下载地址：http://cn.ziddu.com/download/550927/i2pinstall_0.8.1.exe.html
+　　参考：http://caiting666.blogspot.com/2010/11/java-i2p.html
+　　
+　　IP Hider 4.9
+　　下载地址：http://cn.ziddu.com/download/471901/iphider.exe.html
+　　参考：http://caiting666.blogspot.com/2010/03/ip-hider.html
+　　
+　　JonDo version 00.13.006
+　　下载地址：http://yunfile.com/file/ivyrough/58ce5935/
+　　JonDoFox version 2.4
+　　下载地址：http://yunfile.com/file/ivyrough/c76abc44/
+　　
+　　Myprox v1.6.0 完整版
+　　下载地址：http://yunfile.com/file/ivyrough/aa4ad729/
+　　参考：http://caiting666.blogspot.com/2010/08/myprox.html
+　　
+　　PaperBus version 2.0.0 Windows
+　　下载地址：http://cn.ziddu.com/download/519942/PaperBus-2.0-Setup.exe.html
+　　参考：http://caiting666.blogspot.com/2010/01/paper-bus.html
+　　
+　　Simurgh e-sabz v1.20.20100910
+　　下载地址：http://cn.ziddu.com/download/550930/Simurgh120.20100910.exe.html
+　　参考：http://caiting666.blogspot.com/2010/03/simurgh.html
+　　
+　　SonicProxy 6.01
+　　下载地址：http://cn.ziddu.com/download/513331/sonicproxy.exe.html
+　　参考：http://caiting666.blogspot.com/2010/07/sonicproxy.html
+　　
+　　Tor 0.2.1.28 win32
+　　下载地址：http://www.ziddu.com/download/13061005/tor-0.2.1.28-win32.exe.html
+　　Tor 0.2.2.20 alpha win32
+　　下载地址：http://www.ziddu.com/download/13061006/tor-0.2.2.20-alpha-win32.exe.html
+　　Tor(含Vidalia套件)vidalia bundle 0.2.1.28-0.2.10
+　　下载地址：http://yunfile.com/file/ivyrough/05952e60/
+　　Tor(含Vidalia套件)vidalia bundle 0.2.2.20 alpha-0.2.10
+　　下载地址：http://yunfile.com/file/ivyrough/134d9654/
+　　
+　　TUS(The Untraceable Surfer)：https://www.tusurfer.com/tus/registerUser.do
+　　安装版：NX Client for Windows 3.4.0-7
+　　下载地址：http://cn.ziddu.com/download/550929/nxclient-3.4.0-7.exe.html
+　　免安装版：NX Client for Windows 3.3.0-6
+　　下载地址：http://cn.ziddu.com/download/550926/TUS_Client_for_Windows.zip.html
+　　参考：http://caiting666.blogspot.com/2010/12/tusthe-untraceable-surfer.html
+　　
+　　WallProxy V0.3.7 for Win 修改版
+　　下载地址：http://cn.ziddu.com/download/563169/wallproxy-win.rar.html
+　　参考：http://caiting666.blogspot.com/2010/07/wallproxy.html
+　　
+　　WiTopia 1.0.7
+　　下载地址：http://cn.ziddu.com/download/544436/witopia.exe.html
+　　参考：http://caiting666.blogspot.com/2010/07/witopia-vpn.html
+　　
+　　Your Freedom 20101218-01
+　　下载地址：http://yunfile.com/file/ivyrough/7d846ac8/
+　　参考：http://caiting666.blogspot.com/2010/03/java-your-freedom.html
+　　
+　　代理超人(Proxysm)V4.10兼容版
+　　下载地址：http://cn.ziddu.com/download/477344/proxysm410full.rar.html
+　　参考：http://caiting666.blogspot.com/2010/03/proxysm.html
+　　
+　　代理获取器(loadproxy)V1.3.0
+　　下载地址：http://www.ziddu.com/download/13099037/loadproxy.rar.html
+　　参考：http://caiting666.blogspot.com/2010/12/ht@Gue^33D-9#2nv@tp-loadproxy.html
+　　
+　　动网通(DynaPass)3.2版
+　　下载地址：http://cn.ziddu.com/download/527337/DynaPass32.exe.html
+　　参考：http://caiting666.blogspot.com/2010/01/dynapass.html
+　　
+　　轻松设置代理EasyProxy v1.1
+　　下载地址：http://cn.ziddu.com/download/477183/easyproxy.rar.html
+　　参考：http://caiting666.blogspot.com/2010/03/easyproxy.html
+　　
+　　天天加速器(用户名：test，密码：12345；http代理：127.0.0.1，端口：99)
+　　最新版：天天加速器免费测试版 1.11
+　　下载地址：http://yunfile.com/file/ivyrough/4fd5bb89/
+　　参考：http://caiting666.blogspot.com/2010/12/ht@Gue^33D-9#2nv@tp.html
+　　
+　　无界浏览(UltraSurf)10.05正式版
+　　下载地址：http://www.ziddu.com/download/13108812/u1005.exe.html
+　　参考：http://caiting666.blogspot.com/2010/01/ultrasurf_16.html
+　　
+　　西厢计划West Chamber win 0.04
+　　下载地址：http://cn.ziddu.com/download/563080/west-chamber-win-0.04.rar.html
+　　
+　　逍遥游(FreeU)1.7版
+　　下载地址：http://cn.ziddu.com/download/544219/FreeU17.exe.html
+　　参考：http://caiting666.blogspot.com/2010/01/freeu.html
+　　
+　　异次元代理 1.0
+　　下载地址：http://cn.ziddu.com/download/563200/HpsProxy1.0.zip.html
+　　Java版(可支持Unix、Linux、Mac)：http://cn.ziddu.com/download/563201/HpsProxy1.0.java.zip.html
+　　
+　　月亮http代理列表1.21
+　　下载地址：http://cn.ziddu.com/download/531140/ht@Gue^33D-9#2nv@tpdli.exe.html[/email]
+　　参考：http://caiting666.blogspot.com/2010/02/ht@Gue^33D-9#[email]2nv@tp.html
+　　
+　　云通加密代理服务器免费版1.0
+　　下载地址：http://cn.ziddu.com/download/563078/CloudTon_Installer.exe.exe.html
+　　参考：http://caiting666.blogspot.com/2010/10/blog-post.html
+　　
+　　自由门(FreeGate)7.06专业版
+　　下载地址：http://cn.ziddu.com/download/539274/fg706p.exe.html
+　　自由门(FreeGate)7.06专家版
+　　下载地址：http://cn.ziddu.com/download/539276/fg706x.exe.html
+　　参考：http://caiting666.blogspot.com/2010/02/freegate.html
+　　
+　　
+　　手机客户端：
+　　1 VPN 1.3 bugfix(Android)
+　　下载地址：http://cn.ziddu.com/download/555823/OneVpn131.zip.html
+　　参考：http://caiting666.blogspot.com/2010/11/androidvpn-1-vpn.html
+　　
+　　5 VPN 1.1(Android)
+　　下载地址：http://doandroids.com/zh/Apps/FiveVpn/
+　　参考：http://caiting666.blogspot.com/2010/11/androidvpn-5-vpn.html
+　　
+　　FoxVPN(Android；PPTP、L2TP VPN；L2TP密钥：123456)：http://www.foxvpn.com/index.php?type=reg
+　　下载地址：http://cn.ziddu.com/download/563027/Foxvpn.zip.html
+　　参考：http://caiting666.blogspot.com/2010/11/pptpl2tp-vpn-foxvpn.html
+　　
+　　代理易iPhone app：http://itunes.apple.com/app/id406916878
+　　参考：http://caiting666.blogspot.com/2010/11/vpn.html
+　　
+　　无界手机测试版(java) um0.5
+　　下载地址：http://cn.ziddu.com/download/538530/um0.5.zip.html
+　　无界手机测试版 andriod 0.5版
+　　下载地址：http://cn.ziddu.com/download/538529/um0.5_android.zip.html
+　　参考：http://caiting666.blogspot.com/2010/01/ultrasurf_16.html
+　　
+　　自由门WM手机版1.2
+　　下载地址：http://cn.ziddu.com/download/527338/fgwm12.exe.html
+　　自由门Java手机版2.20 普通版
+　　下载地址：http://cn.ziddu.com/download/533341/fgjava220.zip.html
+　　自由门Java手机版2.205,内置Opera Mini5.1版
+　　下载地址：http://cn.ziddu.com/download/539273/fg2205.zip.html
+　　自由门Java手机版2.204,内置Opera Mini4.2版
+　　下载地址：http://cn.ziddu.com/download/539275/fg2204.zip.html
+　　参考：http://caiting666.blogspot.com/2010/02/freegate.html
+　　
+　　
+　　浏览器：
+　　DemocraKey V4.0
+　　下载地址：http://www.ziddu.com/download/12308393/DemocraKeyInstaller.exe.html
+　　
+　　e-Capsule Private Browser HD v2.1.0.611
+　　下载地址：http://cn.ziddu.com/download/563015/PBSetup.exe.html
+　　参考：http://caiting666.blogspot.com/2010/02/e-capsule-private-browser-hd.html
+　　
+　　iBros version 1.0.0
+　　在线安装版下载地址：http://cn.ziddu.com/download/530147/iBros.zip.html
+　　完整绿色版(免安装)下载地址：http://cn.ziddu.com/download/530148/iBros_FULL.rar.html
+　　参考：http://caiting666.blogspot.com/2010/09/ibros.html
+　　
+　　Newbyter Proxy beta2
+　　下载地址：http://cn.ziddu.com/download/544912/NewbyterProxy.zip.html
+　　参考：http://caiting666.blogspot.com/2010/10/firefox-newbyter-proxy.html
+　　
+　　Operator YAPO 1.0
+　　下载地址：http://yunfile.com/file/ivyrough/eb895734/
+　　
+　　SSHWall Plus 1.0.0.4
+　　下载地址：http://cn.ziddu.com/download/512171/SSHWall_Plus1.0.0.4.exe.html
+　　参考：http://caiting666.blogspot.com/2010/07/sshwall-plus.html
+　　
+　　Tor Browser Bundle(浏览器套件)version 1.3.15
+　　下载地址：http://yunfile.com/file/ivyrough/967f0c43/
+　　Tor Browser Instant Messaging Bundle(浏览器+IM套件)version 1.3.15
+　　下载地址：http://yunfile.com/file/ivyrough/1cf2fc1b/
+　　
+　　Usejump version 0.10.5
+　　下载地址：http://cn.ziddu.com/download/509527/usejump_installer_latest.exe.html
+　　参考：http://caiting666.blogspot.com/2010/01/usejump.html
+　　
+　　vforchrome0.08
+　　下载地址：http://yunfile.com/file/ivyrough/0429194f/
+　　参考：http://caiting666.blogspot.com/2010/07/chromium-vforchrome.html
+　　
+　　XeroBank v3.9.10.24
+　　下载地址：http://yunfile.com/file/ivyrough/01f1b33d/
+　　
+　　飞鸽传书
+　　下载地址：http://cn.ziddu.com/download/519654/Flyinglikeabird.exe.html
+　　参考：http://caiting666.blogspot.com/2010/08/blog-post.html
+　　
+　　紫狐浏览器 1.0.6 Windows 绿色版
+　　下载地址：http://yunfile.com/file/ivyrough/22b2f436/
+　　参考：http://caiting666.blogspot.com/2010/12/ipv6.html
+　　
+　　浏览器插件：
+　　1-Click Web Proxy
+　　安装地址：https://chrome.google.com/extensions/detail/kjdehhkgdgjcekacdccoflccmhbkefce
+　　
+　　AutoProxy
+　　安装地址：https://addons.mozilla.org/zh-CN/firefox/addon/11009
+　　
+　　GProxy1.64版
+　　下载地址：http://cn.ziddu.com/download/476750/gproxy.zip.html
+　　
+　　Proxy Switchy!
+　　安装地址：https://chrome.google.com/extensions/detail/caehdcpeofiiigpdhbabniblemipncjj
+　　中文汉化版安装地址：https://chrome.google.com/extensions/detail/bgfkhjmcnkmegdmagboackgipbdpomke?hl=zh-CN
+　　
+　　
+　　手机浏览器：
+　　BOLT 2.3
+　　下载地址(含黑莓专用版、证书版、无证书版、Lite版)：http://cn.ziddu.com/download/539850/BOLT2.3.zip.html
+　　参考：http://caiting666.blogspot.com/2010/08/java-bolt.html
+　　
+　　Ovi Browser：http://browser.ovi.com/
+　　
+　　Skyfire(Android、iPhone/iPod Touch、Symbian、Windows Mobile)：http://www.skyfire.com/product
+　　
+　　Java UCWeb modified version 6.7-7.4
+　　下载地址：http://cn.ziddu.com/download/529609/java_ucweb-mod.zip.html
+　　参考：http://caiting666.blogspot.com/2010/08/ucjava.html
+　　
+　　
+　　其它：
+　　DNS Jumper v1.0.4
+　　下载地址：[code]http://www.ziddu.com/download/13012526/DnsJumper.zip.html
+　　参考：http://caiting666.blogspot.com/2010/01/dns-dns-jumper.html
+　　
+　　IPv6 hosts：https://docs.google.com/View?id=dfkdmxnt_61d9ck9ffq
+　　下载地址：http://cn.ziddu.com/download/518836/hosts.zip.html
+　　参考：http://caiting666.blogspot.com/2010/03/ipv6-googleipv6hosts.html
+　　
+　　
+　　免费SSH：
+　　12代理：http://ssh.12dl.com/
+　　参考：http://caiting666.blogspot.com/2010/10/ssh-12.html
+　　
+　　80代理：http://www.proxy80.cn/ssh/
+　　参考：http://caiting666.blogspot.com/2010/12/sshvpn-80.html
+　　
+　　BlockCN：http://blockcn.com/ssh.php
+　　
+　　CJB：http://www.cjb.net/cgi-bin/shell.cgi?action=signup
+　　
+　　CMDed：http://cmded.net/cms/component/user/register
+　　
+　　FeelSSH：http://feelssh.com/
+　　参考：http://caiting666.blogspot.com/2010/10/ssh-feelsshtk.html
+　　
+　　FreeSSH.us：http://www.freessh.us/
+　　参考：http://caiting666.blogspot.com/2010/07/ssh.html
+　　
+　　ISSH：http://www.issh.in/register.do
+　　参考：http://caiting666.blogspot.com/2010/12/ssh-issh.html
+　　
+　　LiveSSH：http://livessh.com/
+　　参考：http://caiting666.blogspot.com/2010/12/ssh-livessh.html
+　　
+　　Paying.org.ru：http://blog.paying.org.ru/
+　　参考：http://caiting666.blogspot.com/2010/10/ssh.html
+　　
+　　PingBuster：http://www.pingbuster.net/register
+　　参考：http://caiting666.blogspot.com/2010/09/ssh-pingbuster.html
+　　
+　　SSH2Proxy：http://free.ssh2proxy.com/
+　　参考：http://caiting666.blogspot.com/2010/10/ssh-ssh2proxycom.html
+　　
+　　SSH Center：http://www.sshcenter.info/signup.php
+　　参考：http://caiting666.blogspot.com/2010/07/ssh_30.html
+　　
+　　SSH代理网：http://www.sshdlw.com/ssh/gd/46.html
+　　参考：http://caiting666.blogspot.com/2010/10/ssh-ssh.html
+　　
+　　TorVPN：https://torvpn.com/signup.html
+　　参考：http://caiting666.blogspot.com/2010/07/vpnssh-torvpn.html
+　　
+　　Uninux：http://uninux.info/service
+　　参考：http://caiting666.blogspot.com/2010/12/ssh-uninux.html
+　　
+　　Usassh：https://www.usassh.com/register.php
+　　参考：http://caiting666.blogspot.com/2010/11/ssh-usassh.html
+　　
+　　UseSSH：https://www.usessh001.com/signup?plan=free
+　　参考：http://caiting666.blogspot.com/2010/12/ssh-usessh.html
+　　
+　　VipSsh：http://www.sshid.tk/
+　　参考：http://caiting666.blogspot.com/2010/11/ssh-vipssh.html
+　　
+　　VPN久久网：http://www.vpn99.net/?p=40
+　　参考：http://caiting666.blogspot.com/2010/11/sshpptp-vpn-vpn.html
+　　
+　　xiaod：http://ssh0.xiaod.in/free.php
+　　参考：http://caiting666.blogspot.com/2010/08/ssh.html
+　　
+　　yeala：http://yeala.net/freessh.php
+　　参考：http://caiting666.blogspot.com/2010/10/ssh-ssh789.html
+　　
+　　阿里大哥：http://alidage.org/#account
+　　参考：http://caiting666.blogspot.com/2010/10/ssh_31.html
+　　
+　　好用VPN：http://www.hyvpn.com/vpn/upgrade.php
+　　参考：http://caiting666.blogspot.com/2010/11/socks-5sshpptp-vpn-vpn.html
+　　
+　　极速网络：http://www.jisuwangluo.com/bbs/forumdisplay.php?fid=5
+　　参考：http://caiting666.blogspot.com/2010/12/sshpptp-vpn.html
+　　
+　　领翔SSH：http://ssh.iwenda.net/
+　　参考：http://caiting666.blogspot.com/2010/12/ssh-ssh.html
+　　
+　　蔓延免费SSH：http://ssh.90manyan.cn/
+　　参考：http://caiting666.blogspot.com/2010/11/ssh-ssh.html
+　　
+　　奶牛：http://coxy.co.cc/free-ssh.html
+　　
+　　未知风：http://xfeng.info/ssh/
+　　参考：http://caiting666.blogspot.com/2010/11/ssh.html
+　　
+　　在线代理MM网：http://dailimm.com/freessh.php
+　　参考：http://caiting666.blogspot.com/2010/10/ssh-mm.html
+　　
+　　
+　　免费VPN：
+　　10VPN：http://www.10vpn.com/index.php?lang=zh-CN
+　　参考：http://caiting666.blogspot.com/2010/07/pptp-vpn-10vpn.html
+　　
+　　2012VPN：http://www.2012vpn.com/free-trial.html
+　　参考：http://caiting666.blogspot.com/2010/11/pptp-vpn-2012vpn.html
+　　
+　　A8VPN：http://a8vpn.com/register.php
+　　参考：http://caiting666.blogspot.com/2010/08/pptpl2tp-vpn-a8vpn.html
+　　
+　　AnVPN(PPTP VPN)：http://www.anvpn.com/free-vpn-test
+　　参考：http://caiting666.blogspot.com/2010/08/pptp-vpn-anvpn.html
+　　
+　　Best Free VPN(PPTP VPN)：http://www.bestfreevpn.com/
+　　参考：http://caiting666.blogspot.com/2010/11/pptp-vpn-best-free-vpn.html
+　　
+　　CallWithUs(OpenVPN)：https://www.callwithus.com/admin/signup/index.php
+　　参考：http://caiting666.blogspot.com/2010/09/openvpn-callwithus.html
+　　
+　　ClearVPN(OpenVPN)：http://www.clearvpn.co.uk/#/contact-us/4536565236
+　　参考：http://caiting666.blogspot.com/2010/12/openvpn-clearvpn.html
+　　
+　　FBVPN(PPTP VPN)：http://www.fbvpn.com/today_in_history
+　　参考：http://caiting666.blogspot.com/2010/09/pptp-vpn-fbvpn.html
+　　http://caiting666.blogspot.com/2010/12/fbvpnpptp-vpn.html
+　　
+　　Felix(PPTP、L2TP、OpenVPN/OpenVPN(IPv6))：https://felixcat.net/vpn/
+　　
+　　FlixVPN(PPTP VPN)：http://www.flixvpn.com/register
+　　参考：http://caiting666.blogspot.com/2010/12/pptp-vpn-flixvpn.html
+　　
+　　IPjetable(PPTP VPN)：https://ipjetable.net/inscription.php
+　　参考：http://caiting666.blogspot.com/2010/07/pptp-vpn-ipjetable-vpn.html
+　　
+　　ItsHidden(PPTP VPN)：http://itshidden.com/index.php?option=com_acctexp&task=subscribe&Itemid=
+　　参考：http://caiting666.blogspot.com/2010/02/pptp-vpn-itshidden.html
+　　
+　　k17.im(PPTP VPN)：http://www.k17.im/
+　　参考：http://caiting666.blogspot.com/2010/11/pptp-vpn-k17im.html
+　　
+　　Lifetime Free VPN：http://www.freevpn.co/
+　　参考：http://caiting666.blogspot.com/2010/12/pptp-vpn-lifetime-free-vpn.html
+　　
+　　Macro VPN(PPTP、L2TP VPN)：http://billing.macrovpn.com/reg.php
+　　参考：http://caiting666.blogspot.com/2010/07/vpnpptpl2tp-macro-vpn.html
+　　
+　　Puff(PPTP、L2TP VPN)：发主题“TEST”电邮至eevpn.com@gmail.com
+　　参考：http://caiting666.blogspot.com/2010/08/l2tppptp-vpn.html
+　　
+　　SailfishVPN(PPTP VPN)：http://www.sailfishvpn.com/freetrial
+　　参考：http://caiting666.blogspot.com/2010/10/pptp-vpn-sailfishvpn.html
+　　
+　　Tenacy VPN(PPTP VPN)：http://vpn.tenacy.com/public
+　　
+　　Tigervpns(PPTP VPN)：https://tigervpns.com/register/
+　　参考：http://caiting666.blogspot.com/2010/11/pptp-vpn-tigervpns.html
+　　
+　　TorVPN(PPTP、OpenVPN)：https://torvpn.com/signup.html
+　　参考：http://caiting666.blogspot.com/2010/07/vpnssh-torvpn.html
+　　
+　　Tunnelbroker(IPv6 PPTP VPN)：http://tunnelbroker.net/register.php
+　　参考：http://caiting666.blogspot.com/2010/08/henetipv6pptp-vpn.html
+　　
+　　UK Proxy Server(PPTP、L2TP、OpenVPN；L2TP密钥：953783903)：http://www.ukproxyserver.co.uk/shopcustregister.asp
+　　参考：http://caiting666.blogspot.com/2010/11/vpn-uk-proxy-server.html
+　　
+　　VPN1010(PPTP、L2TP VPN；L2TP密钥：vpn1010.com)：http://www.vpn1010.com/user/register
+　　参考：http://caiting666.blogspot.com/2010/12/pptpl2tp-vpn-vpn1010.html
+　　
+　　VPN22(PPTP VPN)：http://www.vpn22.com/freetrial.php
+　　参考：http://caiting666.blogspot.com/2010/10/vpn-vpn22.html
+　　
+　　VPN520(PPTP、L2TP VPN)：http://vpn520.com/signup.php
+　　参考：http://caiting666.blogspot.com/2010/10/pptpl2tp-vpn-vpn520.html
+　　
+　　VPN98(PPTP、L2TP VPN；L2TP密钥：vpn98)http://www.vpn33.com/page_register.php
+　　参考：http://caiting666.blogspot.com/2010/02/pptp-vpn-vpn98.html
+　　
+　　VPNCUP(PPTP、L2TP VPN；L2TP密钥：vpncup.com)http://vpncup.com/user/register
+　　参考：http://caiting666.blogspot.com/2010/08/pptp-vpn-vpncup.html
+　　
+　　VPNForce(PPTP VPN)：http://www.vpnfx.com/
+　　参考：http://caiting666.blogspot.com/2010/07/15pptp-vpn-vpnforce.html
+　　
+　　VPNGates(PPTP、L2TP VPN)：https://www.vpngates.com/livehelp/livehelp.php?department=2
+　　参考：http://caiting666.blogspot.com/2010/08/pptpl2tp-vpn-vpngates.html
+　　
+　　VPN On Demand(PPTP VPN)：发主题“vpnod”电邮至promotion@vpnod.com，内容可不写
+　　参考：http://caiting666.blogspot.com/2010/02/pptp-vpn-vpn-on-demand.html
+　　
+　　VPNPOP(PPTP、OpenVPN)：https://www.vpnpop.com/create.php
+　　参考：http://caiting666.blogspot.com/2010/07/pptp-vpn-vpnpop.html
+　　
+　　VPNPP(PPTP、L2TP VPN；L2TP密钥：vpnpp.com)：http://www.vpnpp.com/register
+　　参考：http://caiting666.blogspot.com/2010/11/pptpl2tp-vpn-vpnpp.html
+　　
+　　VPNReactor(PPTP VPN)：https://members.vpnreactor.com/signup
+　　参考：http://caiting666.blogspot.com/2010/07/1pptp-vpn-vpnreactor.html
+　　
+　　VPNywhere(PPTP VPN)：http://member.vpnywhere.com/signup.php
+　　参考：http://caiting666.blogspot.com/2010/09/pptp-vpn-vpnywhere.html
+　　
+　　VPN久久网(PPTP VPN)：http://www.vpn99.net/?p=40
+　　参考：http://caiting666.blogspot.com/2010/11/sshpptp-vpn-vpn.html
+　　
+　　WAVPN 哇!VPN(PPTP、L2TP VPN；L2TP密钥：wavpn)：http://www.wavpn.com/signup.php
+　　参考：http://caiting666.blogspot.com/2010/10/pptpl2tp-vpn-wavpnvpn.html
+　　
+　　wePN(PPTP VPN)：http://wepn.info/
+　　参考：http://caiting666.blogspot.com/2010/08/pptp-vpn-wepn.html
+　　
+　　WorldVPN(PPTP VPN)：http://worldvpn.net/index.php?app=trial
+　　参考：http://caiting666.blogspot.com/2010/10/vpn-worldvpn.html
+　　
+　　代理易VPN(PPTP VPN)：http://bbs.dailiyi.com/forum-36-1.html
+　　参考：http://caiting666.blogspot.com/2010/11/vpn.html
+　　
+　　好代理：http://www.haodaili.us/
+　　参考：http://caiting666.blogspot.com/2010/12/pptp-vpn.html
+　　
+　　好用VPN(PPTP VPN)：http://www.hyvpn.com/vpn/upgrade.php
+　　参考：http://caiting666.blogspot.com/2010/11/socks-5sshpptp-vpn-vpn.html
+　　
+　　剧终(PPTP VPN)：http://www.td2.us/blog/2010-12/161.html
+　　参考：http://caiting666.blogspot.com/2010/11/pptp-vpn-td2us.html
+　　
+　　快游VPN(PPTP、L2TP VPN；L2TP密钥：KYVPN)：https://www.kyvpn.com/signup
+　　参考：http://caiting666.blogspot.com/2010/10/pptpl2tp-vpn-vpn.html
+　　
+　　联康VPN(PPTP VPN)：http://www.ectaicz.com/FreeTest/index.asp
+　　参考：http://caiting666.blogspot.com/2010/08/pptp-vpn-vpn.html
+　　
+　　梦想家Go-VPN(PPTP VPN)：http://www.go-vpn.com/
+　　参考：http://caiting666.blogspot.com/2010/09/pptp-vpngo-vpn.html
+　　
+　　突破GFW(BreakGFW)(PPTP VPN)：http://breakgfw.com/free
+　　参考：http://caiting666.blogspot.com/2010/12/pptp-vpn-gfwbreakgfw.html
+　　
+　　免费代理：
+　　FreeWebProxy：http://www.freewebproxy.co/
+　　参考：http://caiting666.blogspot.com/2010/12/ht@Gue^33D-9#2nv@tp-freewebproxy.html
+　　
+　　UK Proxy Server(http)：http://www.ukproxyserver.co.uk/shopcustregister.asp
+　　参考：http://caiting666.blogspot.com/2010/11/vpn-uk-proxy-server.html
+　　
+　　好用VPN(Socks 5)：http://www.hyvpn.com/vpn/upgrade.php
+　　参考：http://caiting666.blogspot.com/2010/11/socks-5sshpptp-vpn-vpn.html
+　　
+　　
+　　在线代理：
+　　psiphon(赛风)：https://tuigfwtuiya.info/
+　　参考：http://caiting666.blogspot.com/2010/03/psiphon.html
+　　
+　　http://www.12345proxy.net/
+　　http://www.2bypass.info/
+　　http://30morghsite.com/
+　　无忧代理：http://www.5uproxy.net/
+　　http://www.7daili.com/
+　　http://www.90529.com/
+　　九福在线代理网：http://www.99ff.info/
+　　https://air-proxy.com/
+　　http://air-proxy.com:82/
+　　https://aniscartujo.com/webproxy/
+　　https://anonym-proxy.info/
+　　http://cgiproxy5.appspot.com/
+　　http://proxyfile2.appspot.com/
+　　http://proxysun5.appspot.com/(无广告)
+　　https://browse007.com/
+　　https://browseunblocked.com/
+　　http://bwibit.com/(无广告)
+　　http://youtube.ccnn.info/
+　　https://che-shavad.tk/
+　　https://www.cockyproxy.com/
+　　酷摆在线代理：http://www.coobai.com/
+　　http://www.ctunnel.com/
+　　梯子代理：http://www.daili.cv.ua/
+　　飞速代理：http://www.proxy.cv.ua/
+　　疯狂在线代理：http://www.daili39.com/
+　　http://www.dailiav.com/
+　　在线代理MM网：http://dailimm.com/
+　　代理屋：http://www.dailiwu.com/
+　　代理易：http://dailiyi.com/
+　　https://www.dtunnel.com/
+　　https://enoughschool.com/
+　　http://www.filtersneak.com/
+　　https://www.foundhide.com/
+　　https://freesslproxy.com/
+　　http://freetoview.net/
+　　http://www.getaroundfilter.info/
+　　http://www.heeky.com/(无广告)
+　　https://helora.com/(无广告)
+　　http://www.hidefap.com/(无广告)
+　　https://hidemy.biz/
+　　https://homeworkstudy.org/
+　　http://www.ini.im/
+　　自由之门：http://inrainday.host.sk/tools/visite.html
+　　http://ip167.com/
+　　爱可思在线代理：http://www.ixproxy.com/
+　　https://kaghaz.tk/
+　　https://khoresht.tk/
+　　https://www.kproxy.com/
+　　https://www.libertybell.biz/
+　　https://www.lifelovesme.com/
+　　http://www.likeslikes.info/(无广告)
+　　https://www.losthide.com/
+　　代理易：http://b.maskproxy.com/
+　　https://www.megaproxy.com/freesurf/
+　　http://www.mehide.org/
+　　迷你代理网：http://www.minidaili.com/
+　　https://stock-ticker.mooo.com/(无广告)
+　　http://search.mycbc.cn/go2search.php
+　　http://www.myfblikes.info/(无广告)
+　　https://namakzaar.tk/
+　　https://nardess.tk/
+　　https://www.netrabbit.org/
+　　http://www.newfblike.info/(无广告)
+　　http://www.newipnow.com/(无广告)
+　　https://www.ninjacloak.com/(无广告)
+　　http://passing.tk/
+　　https://passmethru.com/
+　　爬走代理：http://pazou.net/
+　　http://www.pimpmyip.org/
+　　https://polysolve.com/
+　　天天代理网：http://www.proxy365.net/
+　　http://www.proxyie.com/
+　　牛代理：http://www.proxyox.com/
+　　https://www.proxy-service.de/(无广告)
+　　Q吧在线代理：http://www.qlba8.com/
+　　https://www.rbypass.info/
+　　http://www.retailproxy.com/
+　　https://returntojail.com/
+　　https://rockthatblock.com/
+　　http://tools.rosinstrument.com/proxy/
+　　http://seefromus.com/
+　　https://schoolbreakout.com/
+　　https://schoolfreezone.com/
+　　https://schoolisbeat.com/
+　　https://schoolisgood.com/
+　　https://secrethallway.com/
+　　https://www.secretpage.org/
+　　https://www.secure-tunnel.com/
+　　https://shomare.tk/
+　　http://www.shpadoinkle.info/
+　　http://www.slyuser.com/
+　　http://119.sn.cn/
+　　https://www.sneakme.net/
+　　https://www.snowyears.com/
+　　http://www.surfagain.com/
+　　http://www.surfanywebsite.com/
+　　超级在线代理：http://www.superwebproxy.com/
+　　https://www.telephonehide.com/
+　　http://www.topsyproxy.com/
+　　https://tor-proxy.net/proxy/jap/(无广告)
+　　http://www.unblockfree.net/
+　　https://undoblock.com/
+　　http://www.unrestrictedsurf.org/
+　　http://www.veryproxy.com/
+　　http://www.visiblenot.com/(无广告)
+　　https://www.vtunnel.com/
+　　http://www.wangluox.com/
+　　http://wydl.info/
+　　XX代理：http://www.xxdaili.com/
+　　Youtube代理：http://www.youtubedaili.com/
+　　https://youtubeproxy.org/
+　　在线代理之家：http://www.zqzj.net/
+　　
+　　
+　　Twitter API：
+　　推操蛋：http://t.caodan.net/
+　　https://dabr.mobi/
+　　http://mt.laivc.com/
+　　http://liruqi.com/
+　　硬盘被格：https://twitter.lisunlou.com/
+　　http://mytwitter.us/
+　　中文糟糕圈：https://nyaa.biz/t/
+　　https://t.orzdream.com/
+　　敏感词：https://tuite.im/
+　　http://kwestion001.freevar.com/
+　　http://vvas.info/
