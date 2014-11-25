@@ -1,0 +1,77 @@
+git-svn — 让git和svn协同工作 2012-02-20 14:07:05
+
+svn作为一个优秀源码版本的管理工具，可以适合绝大多数项目。但是因为它的采用中心化管理，不可避免的存在本地代码的备份和版本管理问题。也就是说对于尚未或暂无法提交到Subversion服务器的本地代码来说，存在着被误删除和版本更新无法回退两大情形。
+
+git作为一个分布式版本管理工具，可以很好的解决这个问题。因为它的大多数操作是在本地进行的。这里要说的是git是如何做到既可以管理好本地代码又可以与已有的SVN中心库进行同步的。
+
+支持去中心化，是Git与生俱来的特性，它在本地保留了从中心服务器clone出来的源码库的全部信息，这样，你在本地修改完代码后便可以直接提交到本地 的代码版本库中。本地代码的备份和版本管理的问题就这样被Git轻而一举的就解决了。而本地源码库与SVN中心源码库的同步操作则是由Git提供的 git-svn工具来完成的。
+
+下面是一个git-svn的一般使用流程：
+1、git-svn clone svn_repository
+2、修改本地代码，使用git add/commit将修改提交到本地git库
+3、定期使用git-svn rebase获取中心svn repository的更新
+4、使用git-svn dcommit命令将本地git库的修改同步到中心svn库
+
+
+检出一个已存在svn repository(类似于svn checkout)
+
+
+可以通过git-svn clone命令完成这个操作： git-svn clone svn_repository_url
+
+
+一般情况下git svn clone这个操作会从第一个版本开始同步，如果版本号已经到了好几万（或更高？），这个操作会相当的费时。这时可以使用参数-r$REVNUMBER:HEAD检出指定版本后的代码。
+
+
+因此，更好的步骤应该是这样：
+
+
+svn info svn_repository_url, 记录最后的版本号，假设是260
+
+
+假设要检出最后5个版本，做个简单的减法： 260 – 5 = 255
+
+
+开始clone操作了：git-svn clone -r255:HEAD svn_repository_url
+
+
+从中心服务器的svn repository获取最新更新
+
+
+这个操作可以通过”git-svn rebase”完成。注意这里用的是rebase，而不是update。update命令对于通过git-svn检出的svn repostory的git版本库是不可用的。
+
+
+查看提交历史日志
+
+
+使用”git-svn log”，加上-v选项，还可以提供每次commit操作涉及的相关文件的详细信息。
+
+
+将本地代码同步到Svn服务器
+
+
+完成这一操作需要通过”git-svn dcommit”命令。这个命令会将你在本地使用git commit提交到本地代码库的所有更改逐一提交到svn库中。加上-n选项，则该命令不会真正执行commit到svn的操作，而是会显示会有哪些本地 变动将被commit到svn服务器。git-svn dcommit似乎不能单独提交某个本地版本的修改，而是一次批量提交所有与svn中心版本库的差异。
+
+
+
+提交时的冲突解决：
+
+
+如果你正在提交的文件在svn服务器上已经被别人改过，就会发生提交冲突。通常解决方法如下：
+
+
+首先使用git-svn rebase获取svn服务器上的最新冲突文件，比如：conflict.c，这将导致与本地conflict.c冲突，不过此时svn版本信息已经添加到本地git库中(通过git log可以查看)，git-svn rebase提示你在解决conflict.c的冲突后，运行git rebase –continue完成rebase操作
+
+
+打开conflict.c，修改代码，解决冲突
+
+
+执行git rebase –continue，git提示：You must edit all merge conflicts and then mark them as resolved using git add
+
+
+执行git add conflict.c，告知git已完成冲突解决
+
+
+再次执行git rebase –continue，提示”Applying: git xxx”，此时”git xxx”版本又一次成功加入本地版本库，可通过git log查看；
+
+
+执行git-svn dcommit将conflict.c的改动同步到svn中心库，到此算是完成一次冲突解决。
