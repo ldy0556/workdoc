@@ -1,0 +1,192 @@
+
+Android 的系统属性(SystemProperties)分析
+分类： Android 2012-04-12 15:33 1968人阅读 评论(0) 收藏 举报
+androidsystemstringshellservicewindows
+
+目录(?)[+]
+下分析以android 4.03为基础
+前言
+
+Android的系统属性相当于windows的注册表，由key和value组成，且都是核心系统的一个基本机制。相对于windows的注册表，Android的系统属性要简单一些，它没有windows注册表的树状结构，而只是一个列表，也就是说没有父子关系。value有string，int，long，boolean，但是设置只能通过字符串方式。
+
+Android 的系统属性包括两部分：文件保存的持久属性和每次开机导入的cache属性。前者主要保存在下面几个文件中（目录下）：
+
+    /default.prop
+    /system/build.prop
+    /system/default.prop
+    /data/local.prop
+    /data/property目录下的所有presist属性(以presist.开头) 
+
+后者则通过API方式使用。
+一、接口
+1. JAVA层接口：
+
+包名：android.os
+
+类名：SystemProperties，为隐藏类
+
+接口：
+
+    public static String get(String key, String def)
+    public static int getInt(String key, int def)
+    public static long getLong(String key, long def)
+    public static boolean getBoolean(String key, boolean def)
+    public static void set(String key, String val)  
+
+其key长度不能超过31字，val不超过91字
+文件：
+
+    frameworks/base/core/java/android/os/SystemProperties.java 
+
+2.JNI接口
+在android_os_SystemProperties.cpp定义，在frameworks/base/core/jni/AndroidRuntime.cpp中注册JNI
+3.本地接口
+
+接口：
+
+    int property_get(const char *key, char *value, const char *default_value)
+    /* property_set: returns 0 on success, < 0 on failure
+    */
+    int property_set(const char *key, const char *value)
+    int property_list(void (*propfn)(const char *key, const char *value, void *cookie), void *cookie) 
+
+文件：
+
+    system/core/include/cutils/properties.h
+    system/core/libcutils/properties.c 
+
+4. 底层bionic内部接口
+
+除非想修改系统属性机制，可以分析一下
+
+    int __system_property_get(const char *name, char *value);
+    int __system_property_set(const char *key, const char *value);
+    const prop_info *__system_property_find(const char *name);
+    int __system_property_read(const prop_info *pi, char *name, char *value);
+    const prop_info *__system_property_find_nth(unsigned n); 
+
+文件：
+
+    bionic/libc/include/sys/system_properties.h
+    bionic/libc/include/sys/_system_properties.h
+    bionic/libc/bionic/system_properties.c 
+
+5. init.rc接口
+
+原始rc文件有
+
+    system/core/rootdir/init.rc
+    device/vendor/platformname/init.devicename.rc 
+
+编译后在跑到out/target/product/platformname/root/下
+
+做成image后在out/target/product/platformname/ramdisk.img，有可能由于平台不一样，文件名不一样
+
+设备运行后就是在根目录下的一些init*.rc文件
+
+在init.rc我们可以设置属性，监听属性变化
+
+setprop key value
+on property:key=value
+   do_your_work
+
+实现：
+
+property的处理在init进程中，相关文件
+
+    system/core/init/property_service.c
+    system/core/init/property_service.h 
+
+入口函数start_property_service及property_init、load_persist_props
+1. 通讯机制：
+
+property_set有两套实现，一套接口3：本地接口的实现,会调用接口4:中的 __system_property_set，__system_property_set通过本地SOCKET: “/dev/socket/property_service” 与init进程中properties服务通讯。
+
+在init进程的system/core/init/property_service.c(h)代码中有另一套property_set实现，仅用于init进程。
+2. 安全实现：
+
+设置key的value时，需要作鉴权，根据设置程序所在进程的fd获知uid值，比如system server进程可以设置net打头的key，不可以设置gsm打头的key，相关的定义如下：
+
+权限定义system/core/include/private/android_filesystem_config.h
+
+#define AID_ROOT             0  /* traditional unix root user */
+#define AID_SYSTEM        1000  /* system server */
+#define AID_RADIO         1001  /* telephony subsystem, RIL */
+#define AID_DHCP          1014  /* dhcp client */
+#define AID_SHELL         2000  /* adb and debug shell user */
+#define AID_CACHE         2001  /* cache access */
+#define AID_APP          10000 /* first app user */
+
+属性权限表在system/core/init/property_service.c定义，采用白名单方式
+
+struct {
+    const char *prefix;
+    unsigned int uid;
+    unsigned int gid;
+} property_perms[] = {
+    { "net.rmnet0.",      AID_RADIO,    0 },
+    { "net.gprs.",        AID_RADIO,    0 },
+    { "net.ppp",          AID_RADIO,    0 },
+    { "net.qmi",          AID_RADIO,    0 },
+    { "net.lte",          AID_RADIO,    0 },
+    { "net.cdma",         AID_RADIO,    0 },
+    { "ril.",             AID_RADIO,    0 },
+    { "gsm.",             AID_RADIO,    0 },
+    { "persist.radio",    AID_RADIO,    0 },
+    { "net.dns",          AID_RADIO,    0 },
+    { "sys.usb.config",   AID_RADIO,    0 },
+    { "net.",             AID_SYSTEM,   0 },
+    { "dev.",             AID_SYSTEM,   0 },
+    { "runtime.",         AID_SYSTEM,   0 },
+    { "hw.",              AID_SYSTEM,   0 },
+    { "sys.",             AID_SYSTEM,   0 },
+    { "service.",         AID_SYSTEM,   0 },
+    { "wlan.",            AID_SYSTEM,   0 },
+    { "dhcp.",            AID_SYSTEM,   0 },
+    { "dhcp.",            AID_DHCP,     0 },
+    { "debug.",           AID_SHELL,    0 },
+    { "log.",             AID_SHELL,    0 },
+    { "service.adb.root", AID_SHELL,    0 },
+    { "service.adb.tcp.port", AID_SHELL,    0 },
+    { "persist.sys.",     AID_SYSTEM,   0 },
+    { "persist.service.", AID_SYSTEM,   0 },
+    { "persist.security.", AID_SYSTEM,   0 },
+    { NULL, 0, 0 }
+};
+
+通过check_perms函数来检查权限
+
+下面是服务控制权限
+
+struct {
+    const char *service;
+    unsigned int uid;
+    unsigned int gid;
+} control_perms[] = {
+    { "dumpstate",AID_SHELL, AID_LOG },
+    { "ril-daemon",AID_RADIO, AID_RADIO },
+     {NULL, 0, 0 }
+};
+
+通过check_control_perms函数来检查权限
+3. 监听变化
+
+在修改属性的时候，会通过函数property_changed通知init触发init.rc中的trigger。
+4. 属性特殊处理：
+
+1. ctl.开头的属性是控制属性，用于控制系统的本地服务
+
+    ctl.start
+    ctl.stop
+    ctl.restart 
+
+使用语法
+
+ctl.xxx   servicename[:args]
+
+2. ro.开头的属性不能被修改；
+3. net.开始的属性(除net.change外)设置，将引发net.change=key的属性设置，被bionic/libc/netbsd/resolv/res_state.c中的代码处理(通过__system_property_find函数)；
+4. persist.开始的属性，如果在init.rc和代码中设置，将会被写到/data/property目录下；
+ 
+From : http://www.bobbog.com/archives/709
+
