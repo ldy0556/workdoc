@@ -1,0 +1,4 @@
+1、功能：实现应用中定时执行某个操作；
+2、参数：无；
+3、build方法：gcc -o timer_10S_linuxapp timer_10S_linuxapp.c;
+4、运行方法： ./timer_10S_linuxapp
