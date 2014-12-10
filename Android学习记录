@@ -48,5 +48,37 @@ Git 是一个很好的版本控制工具，当然驾驭起来相比 SVN 要稍�
 A
 B
 ==================================
-D
-tcpdump
+tcpdump 实现在linux系统抓包
+
+
+
+
+=================================
+
+
+grep 命令按文件类型
+
+
+    grep查找指定文件类型
+
+
+grep 不能指定文件类型，但是可以用find指定文件类型。
+
+find . -name "*.cpp" | xargs grep -e LoadLibrary -2 >>find_loaddll.find
+
+
+作用：
+
+. 目录 当前子目录
+
+*.cpp 文件类型 cpp
+
+-e LoadLibrary 查找内容 LoadLibrary
+
+-2 显示 LoadLibrary
+
+>> 输出结果 find_loaddll.find
+
+
+例如：find -name *.c |xargs grep  pjsua_call_answer2 -n |grep pjsua_call_answer2
+这样可以显示所有c文件中包含pjsua_call_answer2内容的行，并颜色显示
