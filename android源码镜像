@@ -1,0 +1,86 @@
+怎么都搞不明白，一个纯技术性的网站 Android 开发者 http://developer.android.com/ 会被墙，找不到合适的
+理由。仅仅是出自于 Google，因 Google 不听 ZF 的话受影响？Android 牵动了什么人的神经，影响了什么群体的利益？
+
+作技术的不能因为正常方式访问不了就不去另想他途，翻墙方式的种种这里不累述了。我们不会像多数人一样，以
+为搜索引擎只有一个百度(多数人其实根本不知道那个叫做搜索引擎)。在常规方式下，幸好还有不少 Android 开发
+者网站的镜像可以访问，虽然有些并不能非常及时的跟进同步，但也足够用的。
+
+这里就收集一些可访问的 Android 镜像站点，千万不能因为我把它们集中在一块而给某些别有用心的人得了方便，而
+后害了那些热心的网站，那我可真的是很无聊。随着 appspot.com 的不幸，也让 http://androidappdocs.appspot.com
+失效了。如果还有别的镜像站点，希望大家多多提供，谢谢啦。
+
+1. http://android.yyable.com/offline.html
+
+2. http://docs.uu3g.com/developer.android.com/
+
+3. http://static.meizu.com/m9sdk/index.html（魅族提供，M9 就是 Android 系统）
+
+4. http://android.hidev.net/
+
+5. http://docs.androidmirror.com
+
+6. http://developer.android.com.nyud.net/index.html
+本文原始链接 http://unmi.cc/android-mirror-sites-collections/, 来自 隔叶黄莺 Unmi Blog
+
+7. http://xiaogui.org/android/docs/
+
+8. http://1doc.info/docs/index.html
+
+9. http://www.ideasandroid.com/android/sdk/docs
+
+10. http://doomshadow.com/proxy/index.php?q=aHR0cDovL2RvY3MuYW5kcm9pZG1pcnJvci5jb20%3D&hl=2e9 （在线代理的方式）
+
+11. 更多在线代理的方式请从这个 http://list.glype.com/ 入口进
+
+12. 其他，另外、另外更多的在线 Proxy 方式就 Google 一把了。看来我也应该利用自己空间的特性搞个代理，作点贡献的。
+
+期待更多中 ......
+
+
+
+
+
+
+
+ Android资源,国内镜像站点,博客文章等
+ 分类： Android 2014-11-15 10:42 354人阅读 评论(0) 收藏 举报
+
+ 1. gyming的博客: Android应用开发相关下载资源(2014/10/19更新)  
+
+	2.  Android SDK及文档镜像 (大连东软国内镜像站: http://mirrors.neusoft.edu.cn/android/repository/ 
+
+			3. Android源代码国内下载镜像 (android source mirror: http://mirror.neu.edu.cn/android/platform/)
+
+			4. android sdk docs: docs-21_r01.zip  (大连东软镜像站) 
+
+			5.  踏得网 Android官网&开发者官网 国内镜像& Android4.0 Android5.0 & Android Wear开发文档
+
+			6. Android 开发者官网镜像站点搜集 (http://unmi.cc/android-mirror-sites-collections/)
+
+			7. 踏得网: 踏得 陈小峰的CSDN博客
+
+			8. Android代码调试工具 traceview 和 dmtracedump的波折演绎
+
+			9. longgangbai的源码下载地址(android开发必看资源URL)：android.git.linaro.org 
+
+//////////////////////////////
+			repo init -u git://Android.git.linaro.org/platform/manifest.git -b android-2.3.4_r1
+/////////////////////////////
+
+
+			Android SDK 国内镜像
+	分类： Android 2014-10-11 21:32 1245人阅读 评论(1) 收藏 举报
+	Android SDK 国内镜像
+
+	http://mirrors.neusoft.edu.cn/android/repository/
+
+	解决国内访问Google服务器的困难：
+	1.启动 Android SDK Manager ；
+	2.打开主界面，依次选择「Tools」、「Options...」，弹出『Android SDK Manager - Settings』窗口；
+	3.在『Android SDK Manager - Settings』窗口中，在「HTTP Proxy Server」和「HTTP Proxy Port」输入框内填入mirrors.neusoft.edu.cn和80，并且选中「Force https://... sources to be fetched using http://...」复选框；4.设置完成后单击「Close」按钮关闭『Android SDK Manager - Settings』窗口返回到主界面；
+	5.依次选择「Packages」、「Reload」。
+
+
+
+
+
