@@ -1,0 +1,116 @@
+1、svn checkout 代码；
+2、每个代码目录执行"android update project -s -p . --target android-19"让该目录变为标准的android项目,注意--target android-19;
+3、有些目录执行步骤二提示“Error: . is not a valid project (AndroidManifest.xml not found).” 说明该目录缺少AndroidManifest.xml,从其他目录copyAndroidManifest.xml文件到该目录，并去掉<application />标签内部的内容；
+4、作为库的目录需要在project.properties文件中设置android.library=true，并根据找不到的类文件添加相应的引用库文件,如下：
+        android.library.reference.1=../SipHome
+        android.library.reference.2=../funambol-common
+        android.library.reference.3=../android-support-v7-appcompat
+5、提示：
+
+[dx] UNEXPECTED TOP-LEVEL EXCEPTION:
+[dx] java.lang.IllegalArgumentException: already added: Lcom/funambol/platform/ConnectionNotFoundException;
+[dx]     at com.android.dx.dex.file.ClassDefsSection.add(ClassDefsSection.java:122)
+[dx]  at com.android.dx.dex.file.DexFile.add(DexFile.java:161)
+[dx]   at com.android.dx.command.dexer.Main.processClass(Main.java:685)
+[dx]    at com.android.dx.command.dexer.Main.processFileBytes(Main.java:634)
+[dx]     at com.android.dx.command.dexer.Main.access$600(Main.java:78)
+[dx]  at com.android.dx.command.dexer.Main$1.processFileBytes(Main.java:572)
+[dx]   at com.android.dx.cf.direct.ClassPathOpener.processArchive(ClassPathOpener.java:284)
+[dx]    at com.android.dx.cf.direct.ClassPathOpener.processOne(ClassPathOpener.java:166)
+[dx]     at com.android.dx.cf.direct.ClassPathOpener.process(ClassPathOpener.java:144)
+[dx]  at com.android.dx.command.dexer.Main.processOne(Main.java:596)
+[dx]   at com.android.dx.command.dexer.Main.processAllFiles(Main.java:498)
+[dx]    at com.android.dx.command.dexer.Main.runMonoDex(Main.java:264)
+[dx]     at com.android.dx.command.dexer.Main.run(Main.java:230)
+[dx]  at com.android.dx.command.dexer.Main.main(Main.java:199)
+[dx]   at com.android.dx.command.Main.main(Main.java:103)
+[dx] 1 error; aborting
+
+在代码的根目录执行：./rmclass.sh
+
+rmclass.sh内容如下：
+仅作参考
+#!/bin/bash
+rm   funambol-common/src/com/funambol/platform/ConnectionNotFoundException.class
+rm   funambol-common/src/com/funambol/platform/DeviceInfo.class
+rm   funambol-common/src/com/funambol/platform/DeviceInfoInterface.class
+rm   funambol-common/src/com/funambol/platform/FileAdapter\$DirFilter.class
+rm   funambol-common/src/com/funambol/platform/FileAdapter.class
+rm   funambol-common/src/com/funambol/platform/HttpConnectionAdapter.class
+rm   funambol-common/src/com/funambol/platform/NetworkStatus.class
+rm   funambol-common/src/com/funambol/platform/SocketAdapter.class
+rm   funambol-common/src/com/funambol/push/CTPListener.class
+rm   funambol-common/src/com/funambol/push/CTPNotificationListener.class
+rm   funambol-common/src/com/funambol/push/CTPService\$CTPMessage.class
+rm   funambol-common/src/com/funambol/push/CTPService\$ConnectionTimer.class
+rm   funambol-common/src/com/funambol/push/CTPService\$HeartbeatGenerator.class
+rm   funambol-common/src/com/funambol/push/CTPService.class
+rm   funambol-common/src/com/funambol/push/MessageParserException.class
+rm   funambol-common/src/com/funambol/push/PushConfig.class
+rm   funambol-common/src/com/funambol/push/SANMessage.class
+rm   funambol-common/src/com/funambol/push/SANMessageParser.class
+rm   funambol-common/src/com/funambol/push/SyncInfo.class
+rm   funambol-common/src/com/funambol/push/SyncRequest.class
+rm   funambol-common/src/com/funambol/push/SyncScheduler\$RequestTimer.class
+rm   funambol-common/src/com/funambol/push/SyncScheduler\$SchedulerRequest.class
+rm   funambol-common/src/com/funambol/push/SyncScheduler.class
+rm   funambol-common/src/com/funambol/push/SyncSchedulerListener.class
+rm   funambol-common/src/com/funambol/storage/StringKeyValueFileStore\$1.class
+rm   funambol-common/src/com/funambol/storage/StringKeyValueFileStore.class
+rm   funambol-common/src/com/funambol/storage/StringKeyValueMemoryStore\$1.class
+rm   funambol-common/src/com/funambol/storage/StringKeyValueMemoryStore.class
+rm   funambol-common/src/com/funambol/storage/StringKeyValuePair.class
+rm   funambol-common/src/com/funambol/storage/StringKeyValueSQLiteStore\$1.class
+rm   funambol-common/src/com/funambol/storage/StringKeyValueSQLiteStore\$2.class
+rm   funambol-common/src/com/funambol/storage/StringKeyValueSQLiteStore\$DatabaseHelper.class
+rm   funambol-common/src/com/funambol/storage/StringKeyValueSQLiteStore.class
+rm   funambol-common/src/com/funambol/storage/StringKeyValueStore.class
+rm   funambol-common/src/com/funambol/updater/BasicUpdaterConfig.class
+rm   funambol-common/src/com/funambol/updater/Updater.class
+rm   funambol-common/src/com/funambol/updater/UpdaterConfig.class
+rm   funambol-common/src/com/funambol/updater/UpdaterListener.class
+rm   funambol-common/src/com/funambol/util/AndroidLogAppender.class
+rm   funambol-common/src/com/funambol/util/AppProperties.class
+rm   funambol-common/src/com/funambol/util/Appender.class
+rm   funambol-common/src/com/funambol/util/Base64.class
+rm   funambol-common/src/com/funambol/util/BasicConnectionListener.class
+rm   funambol-common/src/com/funambol/util/ChunkedString.class
+rm   funambol-common/src/com/funambol/util/CodedException.class
+rm   funambol-common/src/com/funambol/util/ConnectionDeniedException.class
+rm   funambol-common/src/com/funambol/util/ConnectionListener.class
+rm   funambol-common/src/com/funambol/util/ConnectionManager.class
+rm   funambol-common/src/com/funambol/util/ConsoleAppender.class
+rm   funambol-common/src/com/funambol/util/DateUtil.class
+rm   funambol-common/src/com/funambol/util/Entities\$EntityMap.class
+rm   funambol-common/src/com/funambol/util/Entities\$LookupEntityMap.class
+rm   funambol-common/src/com/funambol/util/Entities\$PrimitiveEntityMap.class
+rm   funambol-common/src/com/funambol/util/Entities.class
+rm   funambol-common/src/com/funambol/util/FileAppender.class
+rm   funambol-common/src/com/funambol/util/GzipStreamReader.class
+rm   funambol-common/src/com/funambol/util/HttpAuthentication.class
+rm   funambol-common/src/com/funambol/util/HttpTransportAgent\$ConnectionTimer.class
+rm   funambol-common/src/com/funambol/util/HttpTransportAgent\$InputStreamReaderThread.class
+rm   funambol-common/src/com/funambol/util/HttpTransportAgent.class
+rm   funambol-common/src/com/funambol/util/Log.class
+rm   funambol-common/src/com/funambol/util/LogContent.class
+rm   funambol-common/src/com/funambol/util/MD5.class
+rm   funambol-common/src/com/funambol/util/MailDateFormatter.class
+rm   funambol-common/src/com/funambol/util/MemoryAppender.class
+rm   funambol-common/src/com/funambol/util/MultipleAppender.class
+rm   funambol-common/src/com/funambol/util/Observable.class
+rm   funambol-common/src/com/funambol/util/Observer.class
+rm   funambol-common/src/com/funambol/util/Queue.class
+rm   funambol-common/src/com/funambol/util/QuotedPrintable.class
+rm   funambol-common/src/com/funambol/util/SimpleStreamReader.class
+rm   funambol-common/src/com/funambol/util/StackTracePrinter.class
+rm   funambol-common/src/com/funambol/util/StreamReader.class
+rm   funambol-common/src/com/funambol/util/StreamReaderFactory.class
+rm   funambol-common/src/com/funambol/util/StringUtil.class
+rm   funambol-common/src/com/funambol/util/ThreadPool\$MonitorThread.class
+rm   funambol-common/src/com/funambol/util/ThreadPool.class
+rm   funambol-common/src/com/funambol/util/ThreadPoolMonitor.class
+rm   funambol-common/src/com/funambol/util/TransportAgent.class
+rm   funambol-common/src/com/funambol/util/XmlException.class
+rm   funambol-common/src/com/funambol/util/XmlUtil.class
+
+
