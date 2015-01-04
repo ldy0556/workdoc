@@ -1,0 +1,38 @@
+/****jni实例*******************/
+
+
+步骤：
+
+1、新建java文件如：JNITest.java；
+2、javac JNITest.java  ,生成JNITest.class;
+3、javah -jni JNITest  ,生成JNITest.h;
+4、新建.c文件如： test.c;
+5、生成动态库文件 gcc test.c -I/usr/lib/jvm/java-6-oracle/include/ -I/usr/lib/jvm/java-6-oracle/include/linux/ -fPIC -shared -o libJNITest.so;
+6、新建测试文件JNITestCaller.java，执行javac JNITestCaller.java生成JNITestCaller.class;
+7、执行java JNITestCaller ,打印输出测试结果；4、新建.c文件如： test.c;
+5、生成动态库文件 gcc test.c -I/usr/lib/jvm/java-6-oracle/include/ -I/usr/lib/jvm/java-6-oracle/include/linux/ -fPIC -shared -o libJNITest.so;
+6、新建测试文件JNITestCaller.java，执行javac JNITestCaller.java生成JNITestCaller.class;
+7、执行java JNITestCaller ,打印输出测试结果；4、新建.c文件如： test.c;
+5、生成动态库文件 gcc test.c -I/usr/lib/jvm/java-6-oracle/include/ -I/usr/lib/jvm/java-6-oracle/include/linux/ -fPIC -shared -o libJNITest.so;
+6、新建测试文件JNITestCaller.java，执行javac JNITestCaller.java生成JNITestCaller.class;
+7、执行java JNITestCaller ,打印输出测试结果；4、新建.c文件如： test.c;
+5、生成动态库文件 gcc test.c -I/usr/lib/jvm/java-6-oracle/include/ -I/usr/lib/jvm/java-6-oracle/include/linux/ -fPIC -shared -o libJNITest.so;
+6、新建测试文件JNITestCaller.java，执行javac JNITestCaller.java生成JNITestCaller.class;
+7、执行java JNITestCaller ,打印输出测试结果；
+
+如果运行的时候出现：
+
+java.lang.UnsatisfiedLinkError: no JNITest in library path
+
+         at java.lang.Runtime.loadLibrary(Runtime.java)
+
+                  at java.lang.System.loadLibrary(System.java)
+
+
+                           类似的错误，那么就是因为LD_LIBRARY_PATH没有设置正确，用
+
+                           LD_LIBRARY_PATH=test
+
+                            export LD_LIBRARY_PATH
+
+                            在运行一下就可以了
