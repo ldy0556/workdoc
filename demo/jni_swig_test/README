@@ -1,0 +1,10 @@
+/*****************swig生成jni**********************/
+
+1、新建源文件 example.c 和 main.java；
+2、根据.c文件编写swig所需的对应的.i文件，example.i；
+3、编写编译所需用到的Makefile文件；
+4、执行make exalib ，生成libexa.so example.java exampleJNI.java example_wrap.c 文件；
+5、cp libexa.so /user/local/lib/中；
+6、执行make 生成libexample.so;
+7、执行javac *.java生成java的.class文件；
+8、执行java main ,显示测试结果
