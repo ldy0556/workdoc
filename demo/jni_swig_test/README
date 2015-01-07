@@ -8,3 +8,19 @@
 6、执行make 生成libexample.so;
 7、执行javac *.java生成java的.class文件；
 8、执行java main ,显示测试结果
+
+
+
+例：
+
+swig -c++ -java -package com.test -outdir ./ -I../include gemt4j.i ;
+
+-c++指定C++文件
+-package 指定JNI包路径，这一点特别重要；
+-outdir
+-java
+
+
+swig参数详见swig命令帮助文档
+
+生成so库的方法可以参考ndk_build_so的方法

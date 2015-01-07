@@ -6,6 +6,7 @@
  * the SWIG interface file instead.
  * ----------------------------------------------------------------------------- */
 
+package com.test.jnitest;
 
 public class example {
   public static void setMy_variable(double value) {
