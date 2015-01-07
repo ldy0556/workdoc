@@ -1,0 +1,13 @@
+.
+├── AndroidManifest.xml
+└── jni
+    ├── Android.mk
+    ├── Application.mk
+    ├── countrtp.c
+    └── countrtp_wrap.c
+
+ndk-build 工具生成so文件的方法，目录结构如上，其中countrtp.c和 countrtp_wrap.c为生成so文件的源码文件；
+
+注意事项：
+ 1、必须有AndroidManifest.xml、 Android.mk文件，Application.mk可选，必须要有 jni目录；
+ 2、执行ndk-build生成所需的so文件，内容详见文件；
