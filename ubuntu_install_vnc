@@ -1,0 +1,75 @@
+ Ubuntu下安装VNC server
+ 1. 安装gonme核心包(如果是字符界面的话)
+ apt-get install x-window-system-core
+ apt-get install gnome-core
+ apt-get install metacity
+ apt-get install gnome-desktop-environment    (optional)
+
+ 2.安装vnc4server
+ apt-get install vnc4server
+
+ 3.设置vncserver密码
+
+ ＃ vncpasswd
+
+Password: ******
+
+Verify:*****
+
+4.启动VNC server
+
+# vncserver
+# vncserver -kill :1   (:1表示5901端口)
+
+5.修改~/.vnc/xstartup文件
+
+#!/bin/sh
+
+# Uncomment the following two lines for normal desktop:
+
+#unset SESSION_MANAGER
+
+#exec /etc/X11/xinit/xinitrc
+
+[ -x /etc/vnc/xstartup ] && exec /etc/vnc/xstartup
+
+[ -r $HOME/.Xresources ] && xrdb $HOME/.Xresources
+
+xsetroot -solid grey
+
+vncconfig -iconic &
+
+xterm -geometry 80x24+10+10 -ls -title "$VNCDESKTOP Desktop" &
+
+#twm &
+
+gnome-session &
+
+
+
+
+
+以上步骤已经安装完成vncsever，但是客户端显示不正确，配置文件需要做如下修改
+
+1、配置/home/tony/.vnc/xstartup文件
+
+ cat /home/tony/.vnc/xstartup
+
+
+#!/bin/sh
+unset SESSION_MANAGER
+unset DBUS_SESSION_BUS_ADDRESS
+startxfce4 &
+ 
+ [ -x /etc/vnc/xstartup ] && exec /etc/vnc/xstartup
+ [ -r $HOME/.Xresources ] && xrdb $HOME/.Xresources
+ xsetroot -solid grey
+ vncconfig -iconic &
+
+2、安装xfce4桌面环境
+
+
+sudo apt-get install xfce4
+
+
+
